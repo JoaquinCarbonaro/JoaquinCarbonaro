@@ -11,7 +11,7 @@
 - 📝 I am pursuing a **University degree as a technician in Programming at UTN**.
 - 🤓I greatly enjoy crafting solutions, tackling new challenges, and pushing myself every day.
 - ⚡I am also an autodidact student of various languages ​​and technologies.
-- 📫 How to contact me: **joacolcarbo@gmail.com**
+- 📫 Email: **joacolcarbo@gmail.com**
 
 <!-- Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
