@@ -22,7 +22,7 @@
 </div>
 <!-- Tech Stack Icons -->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,docker,androidstudio,firebase,supabase,mongodb,nodejs,java,py,cs,cpp,py,dotnet,mysql,git,js,html,css,angular,ts,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,androidstudio,mysql,mongodb,supabase,cpp,cs,java,py,js,ts,dotnet,nodejs,angular,html,css,git&perline=14" />
   </a>
 </p>
 
