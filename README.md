@@ -13,10 +13,10 @@
 </div>
 
 <!-- Sección Intro -->
-- 🔭 Actualmente estoy en búsqueda de oportunidades como **desarrollador de software / programador web**.  
-- 🎓 Estudio la **Tecnicatura Universitaria en Programación en la UTN**.  
-- 🤓 Me apasiona crear soluciones, resolver nuevos desafíos y superarme día a día.  
-- 📫 **Contacto:** joacolcarbo@gmail.com  
+- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación (UTN)**.
+- 💻 Desarrollador en formación con enfoque **Full Stack**.  
+- 🚀 Interesado en proyectos de **desarrollo web, móvil y transformación digital**.  
+- 📫 Contacto: **joacolcarbo@gmail.com**  
 
 <!-- Línea Divisoria (Degradado) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
