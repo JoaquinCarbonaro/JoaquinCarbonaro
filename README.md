@@ -15,8 +15,7 @@
 <!-- Sección Intro -->
 - 🎓 Estudiante de la **Tecnicatura Universitaria en Programación (UTN)**.
 - 💻 Desarrollador en formación con enfoque **Full Stack**.  
-- 🚀 Interesado en proyectos de **desarrollo web, móvil y transformación digital**.  
-- 📫 Contacto: **joacolcarbo@gmail.com**  
+- 🚀 Interesado en proyectos de **desarrollo web, móvil y transformación digital**. 
 
 <!-- Línea Divisoria (Degradado) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
