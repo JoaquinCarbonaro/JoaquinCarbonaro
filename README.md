@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,supabase,cs,java,py,js,ts,dotnet,nodejs,angular,nestjs,html,css,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,supabase,cs,java,py,js,ts,dotnet,nodejs,angular,html,css,nestjs,git&perline=10" />
 </p>
 
 <!-- Conectar -->
