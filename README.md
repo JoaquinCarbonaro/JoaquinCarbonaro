@@ -8,14 +8,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Programaci%C3%B3n+en+UTN;Desarrollador+de+Software+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Estudiante+de+Programaci%C3%B3n+en+UTN;Desarrollador+Full+Stack+en+formaci%C3%B3n;Angular+%7C+Ionic+%7C+Supabase+%7C+Android;Automatizaci%C3%B3n+y+Transformaci%C3%B3n+Digital" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Sección Intro -->
+
 - 🎓 Estudiante de la **Tecnicatura Universitaria en Programación (UTN)**.
-- 💻 Desarrollador en formación con enfoque **Full Stack**.  
-- 🚀 Interesado en proyectos de **desarrollo web, móvil y transformación digital**. 
+- 💻 Desarrollador en formación con enfoque **Full Stack**.
+- 📱 Experiencia en desarrollo **web y móvil** con Angular, Ionic, Supabase y Android.
+- 🧩 Interesado en proyectos de **automatización, transformación digital y soluciones empresariales**.
 
 <!-- Línea Divisoria (Degradado) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,7 +28,14 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb,supabase,cs,java,py,js,ts,dotnet,nodejs,angular,html,css,nestjs,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgresql,mongodb,supabase,cs,java,py,js,ts,dotnet,nodejs,angular,html,css,nestjs,firebase,androidstudio,git,github,vscode,postman,powershell&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Macros%20%2F%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase%20Edge%20Functions-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 <!-- Conectar -->
