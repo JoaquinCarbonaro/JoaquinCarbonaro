@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
   <img src="https://img.shields.io/badge/Macros%20%2F%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase%20Edge%20Functions-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 <!-- Conectar -->
