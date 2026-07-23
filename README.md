@@ -8,7 +8,7 @@
   <h1>¡Hola 👋! Soy Joaquín Carbonaro</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=T%C3%A9cnico+Universitario+en+Programaci%C3%B3n+UTN;Desarrollador+Full+Stack+Trainee+%2F+Junior;Angular+%7C+Ionic+%7C+NestJS+%7C+Node.js+%7C+Supabase;Bases+de+datos+%7C+APIs+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=T%C3%A9cnico+Universitario+en+Programaci%C3%B3n+UTN;Desarrollador+Full+Stack+%2F+Junior;Angular+%7C+Ionic+%7C+NestJS+%7C+Node.js+%7C+Supabase;Bases+de+datos+%7C+APIs+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
   </a>
 </div>
 
