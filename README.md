@@ -1,26 +1,30 @@
 <!-- Línea Divisoria (Degradado) -->
+
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Sección de Bienvenida -->
+
 <div align="center">
   <h1>¡Hola 👋! Soy Joaquín Carbonaro</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Estudiante+de+Programaci%C3%B3n+en+UTN;Desarrollador+Full+Stack+en+formaci%C3%B3n;Angular+%7C+Ionic+%7C+Supabase+%7C+Android;Automatizaci%C3%B3n+y+Transformaci%C3%B3n+Digital" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=T%C3%A9cnico+Universitario+en+Programaci%C3%B3n+UTN;Desarrollador+Full+Stack+Trainee+%2F+Junior;Angular+%7C+Ionic+%7C+NestJS+%7C+Node.js+%7C+Supabase;Bases+de+datos+%7C+APIs+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <!-- Sección Intro -->
+
 <div align="center">
   <table>
     <tr>
       <td align="left">
         <ul>
-          <li>🎓 Estudiante de la <strong>Tecnicatura Universitaria en Programación (UTN)</strong>.</li>
+          <li>🎓 <strong>Técnico Universitario en Programación</strong> egresado de la UTN.</li>
           <li>💻 Desarrollador en formación con enfoque <strong>Full Stack</strong>.</li>
-          <li>📱 Experiencia en desarrollo <strong>web y móvil</strong> con Angular, Ionic, Supabase y Android.</li>
+          <li>📱 Experiencia en desarrollo <strong>web y móvil</strong> con Angular, Ionic, TypeScript, Node.js, NestJS y Supabase.</li>
+          <li>🗃️ Conocimientos en bases de datos relacionales y no relacionales: SQL, MySQL, PostgreSQL y MongoDB.</li>
           <li>🧩 Interesado en proyectos de <strong>automatización, transformación digital y soluciones empresariales</strong>.</li>
         </ul>
       </td>
@@ -29,9 +33,11 @@
 </div>
 
 <!-- Línea Divisoria (Degradado) -->
+
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tecnologías -->
+
 <div align="center">
   <h2>🚀 Tecnologías que manejo</h2>
 </div>
@@ -46,7 +52,70 @@
   <img src="https://img.shields.io/badge/Macros%20%2F%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
+<!-- Línea Divisoria (Degradado) -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Proyectos destacados -->
+
+<div align="center">
+  <h2>📌 Proyectos destacados</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Rumbo Criollo — Red Social</h3>
+      <p>
+        Aplicación full stack tipo red social con frontend en <strong>Angular</strong> y backend en <strong>NestJS</strong>.
+        Incluye autenticación JWT, publicaciones, comentarios, likes, perfiles, roles y dashboard administrativo.
+      </p>
+      <p>
+        <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-angular-frontend">Frontend</a> |
+        <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-nestjs-api">Backend API</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Play4Ever — Sala de Juegos</h3>
+      <p>
+        Sala de juegos web desarrollada con <strong>Angular, TypeScript y Supabase</strong>.
+        Incluye autenticación, minijuegos, chat en tiempo real, rankings y consumo de APIs.
+      </p>
+      <p>
+        <a href="https://github.com/JoaquinCarbonaro/Play4Ever-sala-de-juegos-angular-supabase">Repositorio</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>DevTools — Autoservicio para Ferretería</h3>
+      <p>
+        Sistema full stack desarrollado con <strong>Node.js, Express, MySQL, Sequelize, EJS, HTML, CSS y JavaScript</strong>.
+        Incluye carrito, ticket, panel administrador, gestión de productos y ventas.
+      </p>
+      <p>
+        <a href="https://github.com/JoaquinCarbonaro/devtools-autoservicio-ferreteria-node-express">Repositorio</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Catálogo Web de Productos</h3>
+      <p>
+        Aplicación web desarrollada con <strong>C# y ASP.NET WebForms</strong>.
+        Incluye catálogo, filtros, favoritos, registro de clientes, administración y gestión de productos.
+      </p>
+      <p>
+        <a href="https://github.com/JoaquinCarbonaro/catalogo-web-productos-aspnet-webforms">Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Línea Divisoria (Degradado) -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Conectar -->
+
 <div align="center">
   <h2>🤝 Conecta conmigo</h2>
   <p>
@@ -57,16 +126,18 @@
 </div>
 
 <!-- Línea Divisoria (Degradado) -->
+
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Estadísticas de GitHub -->
+
 <div align="center">
 
   <h2>📊 Estadísticas de GitHub</h2>
 
   <img src="https://streak-stats.demolab.com?user=JoaquinCarbonaro&theme=whatsapp-dark2&card_width=830&hide_border=true" alt="GitHub Streak" />
 
-  <br><br>
+<br><br>
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation" />
 
