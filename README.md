@@ -157,9 +157,19 @@
 
   <h2>📊 Estadísticas de GitHub</h2>
 
-  <img src="https://streak-stats.demolab.com?user=JoaquinCarbonaro&theme=whatsapp-dark2&card_width=830&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JoaquinCarbonaro&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+    alt="Estadísticas de GitHub de Joaquín Carbonaro" 
+  />
 
-<br><br>
+  <br><br>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinCarbonaro&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Lenguajes más usados de Joaquín Carbonaro" 
+  />
+
+  <br><br>
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation" />
 
