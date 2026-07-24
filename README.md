@@ -65,6 +65,16 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>El Perla Negra — App móvil para restaurante</h3>
+      <p>
+        Aplicación móvil de gestión integral para restaurante desarrollada como <strong>Trabajo Final Integrador UTN</strong>.
+        Incluye roles de usuario, autenticación, pedidos, chat en tiempo real, QR, juegos, encuestas, cuenta, propinas, pagos y paneles operativos.
+      </p>
+      <p>
+        <a href="https://github.com/JoaquinCarbonaro/el-perla-negra-2026">Repositorio</a>
+      </p>
+    </td>
+    <td width="50%">
       <h3>Rumbo Criollo — Red Social</h3>
       <p>
         Aplicación full stack tipo red social con frontend en <strong>Angular</strong> y backend en <strong>NestJS</strong>.
@@ -75,6 +85,8 @@
         <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-nestjs-api">Backend API</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Play4Ever — Sala de Juegos</h3>
       <p>
@@ -85,8 +97,6 @@
         <a href="https://github.com/JoaquinCarbonaro/Play4Ever-sala-de-juegos-angular-supabase">Repositorio</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>DevTools — Autoservicio para Ferretería</h3>
       <p>
@@ -97,6 +107,8 @@
         <a href="https://github.com/JoaquinCarbonaro/devtools-autoservicio-ferreteria-node-express">Repositorio</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Catálogo Web de Productos</h3>
       <p>
@@ -105,6 +117,16 @@
       </p>
       <p>
         <a href="https://github.com/JoaquinCarbonaro/catalogo-web-productos-aspnet-webforms">Repositorio</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Sistemas Operativos — Linux, Docker y Ansible</h3>
+      <p>
+        Resolución práctica de Sistemas Operativos con <strong>Linux, Bash, LVM, Docker, Ansible y Nginx</strong>.
+        Incluye automatización, usuarios, permisos, contenedores y administración de sistema.
+      </p>
+      <p>
+        <a href="https://github.com/JoaquinCarbonaro/so-devops-linux-docker-ansible-lvm">Repositorio</a>
       </p>
     </td>
   </tr>
