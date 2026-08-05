@@ -71,7 +71,7 @@
         Incluye roles de usuario, autenticación, pedidos, chat en tiempo real, QR, juegos, encuestas, cuenta, propinas, pagos y paneles operativos.
       </p>
       <p>
-        <a href="https://github.com/JoaquinCarbonaro/el-perla-negra-2026">Repositorio</a>
+        <a href="https://github.com/JoaquinCarbonaro/El-Perla-Negra-app-restaurante">Repositorio</a>
       </p>
     </td>
     <td width="50%">
@@ -81,8 +81,8 @@
         Incluye autenticación JWT, publicaciones, comentarios, likes, perfiles, roles y dashboard administrativo.
       </p>
       <p>
-        <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-angular-frontend">Frontend</a> |
-        <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-nestjs-api">Backend API</a>
+        <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-frontend">Frontend</a> |
+        <a href="https://github.com/JoaquinCarbonaro/Rumbo-Criollo-red-social-api">Backend API</a>
       </p>
     </td>
   </tr>
@@ -94,7 +94,7 @@
         Incluye autenticación, minijuegos, chat en tiempo real, rankings y consumo de APIs.
       </p>
       <p>
-        <a href="https://github.com/JoaquinCarbonaro/Play4Ever-sala-de-juegos-angular-supabase">Repositorio</a>
+        <a href="https://github.com/JoaquinCarbonaro/Play4Ever-sala-de-juegos">Repositorio</a>
       </p>
     </td>
     <td width="50%">
